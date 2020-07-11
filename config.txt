@@ -1,0 +1,3 @@
+inputFile=dump_on_20200710.txt
+outputFile=ret_on_20200710.txt
+errorFile=error.txt
